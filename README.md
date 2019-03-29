@@ -13,7 +13,7 @@ After cloning the git repo to your local machine, install the required yarn pack
   ```bash
   $ yarn install
   ```
-* Install react-router-dom package with
+* Install the `react-router-dom` package with
   ```bash
   $ yarn add react-router-dom
   ```
